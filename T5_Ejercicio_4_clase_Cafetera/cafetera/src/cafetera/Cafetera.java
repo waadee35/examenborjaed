@@ -7,7 +7,7 @@ public class Cafetera {
 	
 	public Cafetera()
 	{
-		this.capacidadMaxima=500;
+		this.capacidadMaxima=1000;
 		this.cantidadActual=0;
 	}
 	
